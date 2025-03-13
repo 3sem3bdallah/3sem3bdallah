@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3sem3bdallah&layout=compact&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=3sem3bdallah&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=3sem3bdallah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ## 🚀 Connect with Me
