@@ -20,6 +20,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3sem3bdallah&layout=compact&theme=dark&hide_border=false" height="150" alt="Top Languages" />
 <img src="https://streak-stats.demolab.com?user=3sem3bdallah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  
+![](https://github-readme-stats.vercel.app/api?username=3sem3bdallah&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 </div>
 
 ## 🚀 Connect with Me
@@ -54,7 +57,12 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Script" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+
 </p>
 
 ### 🖥 IDEs & Editors
