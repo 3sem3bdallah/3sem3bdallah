@@ -1,4 +1,4 @@
-<br clear="both">
+<br clear="both"/>
 
 <div align="center">
   <img height="450" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif" alt="Profile Banner"/>
@@ -15,15 +15,33 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3sem3bdallah.3sem3bdallah" alt="Profile Visitors"/>
 </div>
 
-<br clear="both">
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3sem3bdallah&layout=compact&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=3sem3bdallah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  
-![](https://github-readme-stats.vercel.app/api?username=3sem3bdallah&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=3sem3bdallah&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="250" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=3sem3bdallah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="Streak Graph"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3sem3bdallah&layout=compact&theme=dark&hide_border=false" height="250" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/3sem3bdallah?theme=dark&font=New%20Rocker&ext=activity" height="250" alt="LeetCode Card"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
+---
 
 ## 🚀 Connect with Me
 
@@ -39,11 +57,13 @@
   </a>
 </div>
 
+---
+
 ## 🛠 My Skills
 
 ### 💻 Programming Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart" height="40" alt="Programming Languages"  />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart" height="40" alt="Programming Languages" />
 </p>
 
 ### 📱 Development
@@ -51,31 +71,21 @@
   <img src="https://skillicons.dev/icons?i=flutter,mysql,sqlite,firebase,postgres" height="40" alt="Development Tools" />
 </p>
 
-### 🛠 Software & Tools
+### 🧰 Software & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="Git"  />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Script" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-
 </p>
 
 ### 🖥 IDEs & Editors
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </p>
