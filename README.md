@@ -8,6 +8,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Asem+Abdallah's+Profile!;Aspiring+Software+Engineer" />
 </div>
 
+<div align="center">  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=3sem3bdallah.3sem3bdallah" alt="Profile Visitors"/>  
+</div>  
+
+## 🚀 Connect with Me  
+
+<div align="center">  
+  <a href="https://www.linkedin.com/in/asem-abdallah/" target="_blank">  
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="40" alt="LinkedIn" />  
+  </a>  
+  <a href="https://web.telegram.org/k/?start=El_Qaadi" target="_blank">  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="Telegram" />  
+  </a>  
+  <a href="mailto:asem5141@gmail.com" target="_blank">  
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50" height="40" alt="Gmail" />  
+  </a>  
+  <br/>  
+</div>  
+
 ## 📊 GitHub Stats
 
 <div align="center">
