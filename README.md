@@ -47,12 +47,12 @@
 
 ### 💻 Programming Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,dart" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,dart,matlab" height="40" alt="Programming Languages" />
 </p>
 
 ### 📱 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,postgres" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,postgres,sklearn,pytorch,tensorflow" height="40" alt="Development Tools" />
 </p>
 
 ### 🧰 Software & Tools
@@ -62,16 +62,18 @@
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=arch" width="40" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
-
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="Kubernetes" />
 </p>
 
 ### 🖥 IDEs & Editors
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=pycharm" width="40" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains" />
+  <img src="https://skillicons.dev/icons?i=idea" width="40" alt="IntelliJ" />
   <img src="https://skillicons.dev/icons?i=androidstudio" width="40" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=neovim" width="40" alt="Vim" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </p> 
