@@ -66,7 +66,7 @@
 
 ### 💻 Programming Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,dart,matlab" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,python,java,dart,matlab" height="40" alt="Programming Languages" />
 </p>
 
 ### 📱 Development
