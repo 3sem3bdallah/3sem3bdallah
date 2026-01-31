@@ -1,9 +1,3 @@
-<br clear="both"/>
-
-<div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif" alt="Profile Banner"/>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Asem+Abdallah's+Profile!;Aspiring+Software+Engineer" />
 </div>
@@ -12,87 +6,24 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=3sem3bdallah.3sem3bdallah" alt="Profile Visitors"/>  
 </div>  
 
-## 🚀 Connect with Me  
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/asem-abdallah/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="40" alt="LinkedIn" />  
-  </a>  
-  <a href="https://web.telegram.org/k/?start=El_Qaadi" target="_blank">  
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="Telegram" />  
-  </a>  
-  <a href="mailto:asem5141@gmail.com" target="_blank">  
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50" height="40" alt="Gmail" />  
-  </a>  
-  <br/>  
-</div>  
-
-## 📊 GitHub Stats
+##
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=3sem3bdallah&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" height="200" alt="GitHub Stats"/>
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=3sem3bdallah&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="200" alt="Streak Graph"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3sem3bdallah&layout=compact&theme=dark&hide_border=true&langs_count=6" height="200" alt="Top Languages"/>
-      </td>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/3sem3bdallah?theme=dark&font=New%20Rocker&ext=activity" height="300" alt="LeetCode Card"/>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://www.linkedin.com/in/asem-abdallah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+</a>
+
+<a href="https://t.me/El_Qaadi" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
+</a>
+
+<a href="https://twitter.com/3sooomm" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
+</a>
+
+<a href="https://discordapp.com/users/3sem_abdallah" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
+</a>
+
 </div>
-
-## 📊 Contribution Graph
-
-![Zeyad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3sem3bdallah&theme=react-dark&hide_border=true)
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3sem3bdallah&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" />
-</div>
-
-## 🛠 My Skills
-
-### 💻 Programming Languages
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,python,java,dart,matlab" height="40" alt="Programming Languages" />
-</p>
-
-### 📱 Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,postgres,sklearn,pytorch,tensorflow" height="40" alt="Development Tools" />
-</p>
-
-### 🧰 Software & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=arch" width="40" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="Kubernetes" />
-</p>
-
-### 🖥 IDEs & Editors
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="40" alt="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=idea" width="40" alt="IntelliJ" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="40" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=neovim" width="40" alt="Vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-</p> 
